@@ -2,5 +2,5 @@
 
 ##  Responsive web design landing-page
 
-## Project webpage 
+### Project webpage 
 https://vocal-buttercream-34f095.netlify.app/
